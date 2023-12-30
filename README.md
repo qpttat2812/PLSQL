@@ -1,2 +1,28 @@
-# PLSQL
-Oracle, Udemy course
+### The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"
+
+- PL/SQL Terminologies
+- PL/SQL Architecture
+- PL/SQL Variables
+- PL/SQL Control Structures
+- Using SQL inside PL/SQL
+- PL/SQL Cursors
+- Using PL/SQL Program Units (Functions & Procedures)
+- PL/SQL Packages
+- PL/SQL Exceptions & Exception Handling
+- PL/SQL Debugging
+- Dynamic SQL & PL/SQL
+- PL/SQL Composite Data Types (Collections)
+- PL/SQL Triggers
+- Oracle-Supplied Packages
+- Using Large Objects in PL/SQL (LOBs)
+- Using PL/SQL Object Oriented
+- Using PL/SQL Compiler
+- PL/SQL Performance &Tuning
+- PL/SQL Caching
+- PL/SQL Security
+- PL/SQL Fine-Grained Access Control (VPD)
+- PL/SQL Hints
+- PL/SQL Object Dependencies
+- Designing Better PL/SQL
+- Using Java/C in PL/SQL
+- Managing Dependencies
